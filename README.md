@@ -2,7 +2,7 @@
 
 ## Installation and Developers
 
-[pip] (https://pypi.org/project/pip/)
+[pip](https://pypi.org/project/pip/)
 
 ! (https://pypi.org/static/images/logo-small.95de8436.svg)
 
